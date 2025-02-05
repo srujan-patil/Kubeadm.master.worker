@@ -127,11 +127,4 @@ Your **Kubernetes master node** is now set up! 🎉
 
 This **project** is licensed under the **MIT License**.
 
-### ✅ Features of this format:  
-✔ Uses **emojis** for better readability.  
-✔ Includes a **Table of Contents** for easy navigation.  
-✔ Uses **sections with separators (`---`)** for clarity.  
-✔ Ready to **copy-paste into GitHub `README.md`** with proper formatting.  
-
-Let me know if you need any tweaks! 🚀 
 
